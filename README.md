@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="30px">, I'm Sujay</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="30px">, I'm Shubhadip</h1>
 <h3 align="center">I'm a Security Researcher from India.</h3>
 
 <a href="#"><img width="480" height="300px" align="right" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/code.gif"/></a>
@@ -9,13 +9,13 @@
 
 - 👨‍💻 I’m currently learning **Penetration Testing.**
 
-- 👯 Follow me for bug bounty update **[Twitter](https://twitter.com/TheLittleH4ck3r/)**
+- 👯 Follow me for bug bounty update **[Twitter](https://twitter.com//)**
 
-- 📓 All of my write-up available at **[My Write-up](https://TheLittleH4ck3r.medium.com/)**
+- 📓 All of my write-up available at **[My Write-up](https://medium.com/)**
 
 - 📫 How to reach me **cybermaddy7@gmail.com**
 
-- ⚡ Fun fact **I play Football ⚽ and My fev Player ❤️ Cristiano Ronaldo❤️**
+- ⚡ Fun fact **I play Football ⚽ and My fev Player ❤️ Messi❤️**
 
 ## 🚀 Languages and Tools:
 
